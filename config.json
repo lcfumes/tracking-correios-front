@@ -1,0 +1,13 @@
+{
+    "track": {
+        "uri": "https://d13ovmltb9.execute-api.us-east-1.amazonaws.com/prod?cod=%cod"
+    },
+    "correios": {
+        "status": {
+            "delivered": [
+                "BDE", "BDI", "BDR"
+            ],
+            "deliveredStatus": "01"
+        }
+    }
+}
